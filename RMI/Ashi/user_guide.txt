@@ -1,0 +1,13 @@
+1.start server first.
+=> go to the folder where you extract this zip file.
+2.now open cmd here any type
+a. javac myserver.java
+b. java myserver
+c.if you got port already error then change the port number in myclient and myserver program.
+3. in same folder again open cmd and type
+a. javac myclient.java
+b. java myclient
+c. Enter input
+d. get result.
+e.now close all the cmd.
+f.program executed successfully.
