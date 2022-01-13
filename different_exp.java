@@ -1,6 +1,7 @@
 //three type of exception handling.
 import java.util.*;
 import java.io.*;
+@SuppressWarnings("ALL")
 public class different_exp {
     public static void main(String[] args){
         int array[]={0,1,2,3,4,5};
