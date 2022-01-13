@@ -1,3 +1,5 @@
+package RMI.Ashi;
+
 //myclient.java
 import java.rmi.RemoteException;
 import java.rmi.NotBoundException;

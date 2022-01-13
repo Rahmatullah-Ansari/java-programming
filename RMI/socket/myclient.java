@@ -1,3 +1,5 @@
+package RMI.socket;
+
 // Java program to illustrate Client side 
 // programming using Datagram socket. 
 import java.io.*;

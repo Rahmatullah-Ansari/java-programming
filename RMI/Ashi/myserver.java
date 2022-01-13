@@ -1,3 +1,5 @@
+package RMI.Ashi;
+
 //myserver.java
 import java.rmi.RemoteException;
 import java.rmi.registry.LocateRegistry;

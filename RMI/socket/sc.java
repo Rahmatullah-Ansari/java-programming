@@ -1,3 +1,5 @@
+package RMI.socket;
+
 //TCP/IP socket programming.
 import java.net.*;
 import java.io.*;

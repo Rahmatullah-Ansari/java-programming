@@ -1,10 +1,14 @@
 //AREA OF CIRCLE USING CONSTRUCTOR.
 import java.util.*;
 public class area_of_circle {
+    /**
+     *
+     */
+    private static final int NEXT_INT = new Scanner(System.in).nextInt();
+
     public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
         System.out.println("Enter radius of circle = ");
-        int radius=sc.nextInt();
+        int radius=NEXT_INT;
         new AREA(radius);
     }
     
