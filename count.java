@@ -1,6 +1,5 @@
 //count word,number etc.
 import java.util.*;
-import javax.lang.model.util.ElementScanner14;
 public class count {
     public static void main(String[] args) {
         COUNT_C("hello hii 3333 444 55 +++{|}OY&_^$$**)^(IKFJ");
